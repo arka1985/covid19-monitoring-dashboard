@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True COVID-19-Monitoring-Dashboard.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True COVID-19-Monitoring-Dashboard-app.ipynb
