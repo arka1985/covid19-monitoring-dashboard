@@ -1,0 +1,928 @@
+,datetime,name,roll,temperature,symptopms,comorbidity,containment_zone,international_travel,recent_contact,Aarogyasetu_status,obey_rules,voluntary,age,gender
+0,2020-12-16,Jagdish Chandra Palariya,14,96.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,,
+1,2020-12-16,Satish Saini,31,97 F,None of the Above,None of the Above,No,No,No,You are SAFE,Yes,Yes,,
+2,2020-12-16,PRAMOD KUMAR,21,198.86,None of the Above,None of the Above,No,No,No,YOU ARE SAFE,Yes,Yes,,
+3,2020-12-16,Saurav Bhandari,32,97.5,None of the Above,None of the Above,No,No,No,SAFE,Yes,Yes,,
+4,2020-12-16,Ishan Tamrakar ,13,98,None of the Above,None of the Above,No,No,No,I am Safe.,Yes,Yes,,
+5,2020-12-16,JUGRAJ SINGH BHADAURIYA,15,34,None of the Above,None of the Above,No,No,No,YOU ARE SAFE,Yes,Yes,,
+6,2020-12-16,ANUP KUMAR CHAUBEY,4,92,None of the Above,None of the Above,No,No,No,Yes,Yes,Yes,,
+7,2020-12-16,Vikas Sati,45,97.9,None of the Above,None of the Above,No,No,No,You are Safe,Yes,Yes,,
+8,2020-12-16,TOKESH KUMAR NAGWANSHI,43,81,None of the Above,Kidney Disease,No,No,No,NO ANY ISSUE,Yes,Yes,,
+9,2020-12-16,Gajendra Singh Chouhan,10,98.5,None of the Above,None of the Above,No,No,No,Low risk,Yes,Yes,,
+10,2020-12-16,Deepak Yadav,07,96.7,None of the Above,None of the Above,No,No,No,You are safe,Yes,Yes,,
+11,2020-12-16,Yashraj Singh,50,96.8,None of the Above,None of the Above,No,No,No,Infection risk is low,Yes,Yes,,
+12,2020-12-16,Ramanand Patel ,29,97.4,None of the Above,None of the Above,No,No,No,Yes,No,No,,
+13,2020-12-16,Indresh Kumar,12,97,None of the Above,None of the Above,No,No,Yes,Yes,Yes,Yes,,
+14,2020-12-16,SANDEEP SINGH RATHORE,30,98.5,None of the Above,None of the Above,No,No,No,YOU ARE SAFE,Yes,Yes,,
+15,2020-12-16,Prashant Yadav,22,96.8,None of the Above,None of the Above,No,No,No,You are safe,Yes,Yes,,
+16,2020-12-16,sumit Joshi,39,94.6,None of the Above,None of the Above,No,No,No,normal,Yes,Yes,,
+17,2020-12-16,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,I am Safe,Yes,Yes,,
+18,2020-12-16,TAJINDER PAL SINGH,41,98.2,None of the Above,None of the Above,No,No,No,You are safe,Yes,Yes,,
+19,2020-12-16,Digvijay singh parmar,9,97,None of the Above,None of the Above,No,No,No,Yes,Yes,Yes,,
+20,2020-12-16,Rahul Kumar Chaudhary,27,207.14,None of the Above,None of the Above,No,No,No,You are safe,Yes,Yes,,
+21,2020-12-16,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Safe,Yes,Yes,,
+22,2020-12-16,Uttam Kumar,44,98.4,None of the Above,None of the Above,No,No,No,Aarogya setu app status green,Yes,Yes,,
+23,2020-12-16,Ram Milan Singh ,28,101,None of the Above,None of the Above,No,No,No,Healthy,Yes,Yes,,
+24,2020-12-16,Pankaj Kumar ,18,94,None of the Above,None of the Above,No,No,No,No any covid-19 paitaint near by. ,Yes,Yes,,
+25,2020-12-16,Anuj Chanchal,03,96.4,None of the Above,None of the Above,No,No,No,YOU ARE SAFE,Yes,Yes,,
+26,2020-12-16,Devanand sahu,08,96.7,None of the Above,None of the Above,No,No,No,Infection risk is low ,Yes,Yes,,
+27,2020-12-16,Jugraj Singh Bhadauriya ,15,97,None of the Above,None of the Above,No,No,No,You are safe ,Yes,Yes,,
+28,2020-12-16,Pritam Singh,24,97.3,None of the Above,None of the Above,No,No,No,SAFE,Yes,Yes,,
+29,2020-12-16,Abhay Kumar Singh,01,96.5,None of the Above,None of the Above,No,No,No,You are Safe,Yes,Yes,,
+30,2020-12-16,Suneet Singh,40,97.5,None of the Above,None of the Above,No,No,No,Safe,Yes,Yes,,
+31,2020-12-16,Rahul Gupta,26,97.4,None of the Above,Diabetes,No,No,No,You are safe ,Yes,Yes,,
+32,2020-12-16,Vipin chourasiya,48,96.4,None of the Above,None of the Above,No,No,No,Safe,Yes,Yes,,
+33,2020-12-16,Shivam Tripathi ,33,98.6,None of the Above,None of the Above,No,Yes,No,Nil,Yes,Yes,,
+34,2020-12-16,ANUP KUMAR CHAUBEY,4,96,None of the Above,None of the Above,No,No,No,Your are Safe,Yes,Yes,,
+35,2020-12-16,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Normal /Nil,Yes,Yes,,
+36,2020-12-16,RACHIT KUMAR VERMA,25,97.1,None of the Above,None of the Above,No,No,No,You are safe,Yes,Yes,,
+37,2020-12-16,Shivendra Kumar Singh,34,98.2,None of the Above,None of the Above,No,No,No,You are safe,Yes,No,,
+38,2020-12-16,Shivendra Kumar Singh,34,98.2,None of the Above,None of the Above,No,No,No,You are safe,Yes,No,,
+39,2020-12-16,Virendra Kumar Dahayat,49,92.66,None of the Above,None of the Above,No,No,No,1 User diagnosed COVID 19 in last 28 days ,Yes,Yes,,
+40,2020-12-16,Sudhir kumar,38,96.6,None of the Above,None of the Above,No,No,No,I m safe,Yes,Yes,,
+41,2020-12-17,Sudhir kumar,38,96.6,None of the Above,None of the Above,No,No,No,I m safe,Yes,Yes,,
+42,2020-12-17,Ramanand Patel ,29,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,,
+43,2020-12-17,Prabhu Prasad Patra,19,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,,
+44,2020-12-17,Shiva Pratap Singh,35,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,,
+45,2020-12-17,Prabhu Shankar Prasad,20,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,,
+46,2020-12-17,Uttam Kumar,44,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,,
+47,2020-12-17,Ishan Tamrakar ,13,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,,
+48,2020-12-17,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,,
+49,2020-12-17,Pankaj Kumar ,18,95.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+50,2020-12-17,Anuj chanchal,03,95.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+51,2020-12-17,Satish Saini,31,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+52,2020-12-17,Devanand sahu,08,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+53,2020-12-17,Virendra Kumar Dahayat,49,95.03,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+54,2020-12-17,DIGVIJAY singh parmar,9,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+55,2020-12-17,Saurav Bhandari ,32,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+56,2020-12-17,Rahul Gupta,26,97.2,None of the Above,Diabetes,No,No,No,Green,Yes,Yes,29,Male
+57,2020-12-17,Deepak Yadav,07,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Female
+58,2020-12-17,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+59,2020-12-17,Prasoon Kumar Agarwal ,23,95.6,Cough,None of the Above,No,No,No,Green,Yes,Yes,47,Male
+60,2020-12-17,Vinay Kumar Yadav ,47,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+61,2020-12-17,Jagdish Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,No,Yes,27,Male
+62,2020-12-17,Gaurav Chaudhary ,11,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+63,2020-12-17,Arun Sakwar,05,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+64,2020-12-17,Tarun Sakwar,42,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+65,2020-12-17,AJAY KUMAR SHARMA,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+66,2020-12-17,PRAMOD KUMAR,21,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+67,2020-12-17,Shiva Pratap Singh,35,98.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+68,2020-12-17,Gajendra Singh Chouhan,10,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+69,2020-12-17,Yashraj Singh,50,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+70,2020-12-17,sumit joshi,39,95.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+71,2020-12-17,Sandeep Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+72,2020-12-17,Rachit Kumar Verma,25,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+73,2020-12-17,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+74,2020-12-17,Vikas Sati,45,97.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+75,2020-12-17,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Female
+76,2020-12-17,Pritam Singh,24,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+77,2020-12-17,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+78,2020-12-17,Ram Milan Singh ,28,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+79,2020-12-17,Abhay kumar singh,01,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+80,2020-12-17,ARVIND KUMAR SHUKLA,06,99,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+81,2020-12-17,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+82,2020-12-17,Vipin chourasiya,48,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+83,2020-12-17,ANUP KUMAR CHAUBEY,4,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+84,2020-12-17,Shivam Tripathi ,33,97,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+85,2020-12-17,Tajinder Pal Singh ,41,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+86,2020-12-17,Rahul Kumar Chaudhary,27,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+87,2020-12-17,Prashant Yadav,22,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+88,2020-12-17,Prashant Yadav,22,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+89,2020-12-17,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+90,2020-12-17,Shivendra Kumar Singh,34,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+91,2020-12-17,Madhav Mishra,16,98,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+92,2020-12-18,Shiva Pratap Singh,35,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+93,2020-12-18,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+94,2020-12-18,Uttam Kumar,44,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+95,2020-12-18,Satish Saini,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+96,2020-12-18,Yashraj Singh,50,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+97,2020-12-18,Tajinder Pal Singh ,41,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+98,2020-12-18,Saurav Bhandari ,32,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+99,2020-12-18,Anuj chanchal,03,95.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+100,2020-12-18,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+101,2020-12-18,Deepak Yadav,07,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+102,2020-12-18,Rachit kumar Verma,25,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+103,2020-12-18,Vinay Kumar Yadav ,47,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+104,2020-12-18,Vinay Kumar Yadav ,47,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+105,2020-12-18,Devanand sahu,8,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+106,2020-12-18,ANUP KUMAR CHAUBEY,4,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+107,2020-12-18,Vikas Sati ,45,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+108,2020-12-18,DIGVIJAY singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,No,No,30,Male
+109,2020-12-18,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+110,2020-12-18,Pankaj Kumar ,18,95.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+111,2020-12-18,Gajendra Singh Chouhan,10,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+112,2020-12-18,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+113,2020-12-18,Ishan Tamrakar ,13,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+114,2020-12-18,Rahul Gupta,26,98,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,26,Male
+115,2020-12-18,PRAMOD KUMAR,21,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+116,2020-12-18,ARUN SAKWAR,05,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+117,2020-12-18,Ram Milan Singh ,28,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+118,2020-12-18,Prasoon Kumar Agarwal,23,95.8,Cough,None of the Above,No,No,No,Green,Yes,Yes,47,Male
+119,2020-12-18,Virendra Kumar Dahayat,49,96.32,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+120,2020-12-18,Abhay kumar singh,01,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+121,2020-12-18,SHIVENDRA KUMAR SINGH,34,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+122,2020-12-18,Arvind Kumar shukla,06,100,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+123,2020-12-18,Pritam Singh,24,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+124,2020-12-18,Gaurav c,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+125,2020-12-18,Ramanand Patel ,29,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+126,2020-12-18,Shri Kant ,36,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+127,2020-12-18,Shri Kant ,36,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+128,2020-12-18,Shri Kant ,36,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+129,2020-12-18,Vipin chourasiya,48,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+130,2020-12-18,Tarun Sakwar,42,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+131,2020-12-18,Suneet Singh,40,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+132,2020-12-18,Sumit joshi,39,95.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+133,2020-12-18,Sudhir kumar,38,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+134,2020-12-18,Sudhir kumar,38,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+135,2020-12-18,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+136,2020-12-18,Shivam Tripathi ,33,97.6,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+137,2020-12-18,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+138,2020-12-18,Neetu,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+139,2020-12-18,Rahul Kumar Chaudhary,27,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+140,2020-12-18,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+141,2020-12-18,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+142,2020-12-18,Madhav Mishra,16,98,Cough,None of the Above,No,No,No,Green,Yes,Yes,35,Male
+143,2020-12-18,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+144,2020-12-18,Prashant yadav,22,95.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+145,2020-12-19,Ajay Kumar Sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+146,2020-12-19,Tajinder Pal Singh,41,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+147,2020-12-19,Prabhu Prasad Patra,19,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+148,2020-12-19,Shiva Pratap Singh,35,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+149,2020-12-19,Uttam Kukar,44,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+150,2020-12-19,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+151,2020-12-19,Gajendra Singh Chouhan,10,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+152,2020-12-19,Devanand sahu,8,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+153,2020-12-19,Vikas Sati ,45,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+154,2020-12-19,Vinay Kumar Yadav ,47,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+155,2020-12-19,Anuj chanchal,03,96.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+156,2020-12-19,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+157,2020-12-19,Tarun Sakwar,42,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+158,2020-12-19,Tokesh kumar nagwanshi,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+159,2020-12-19,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+160,2020-12-19,Rahul Gupta,26,97.4,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+161,2020-12-19,Deepak Yadav,07,97.6,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+162,2020-12-19,Ajay Kumar Sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+163,2020-12-19,Ajay kumar sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+164,2020-12-19,Satish Saini,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+165,2020-12-19,Saurav Bhandari ,32,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+166,2020-12-19,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+167,2020-12-19,ANUP KUMAR CHAUBEY,4,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+168,2020-12-19,Vipin chourasiya,48,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+169,2020-12-19,Prashant Yadav,22,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+170,2020-12-19,Rahul Kumar Chaudhary,27,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+171,2020-12-19,Sumit joshi,39,95.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+172,2020-12-19,ARUN SAKWAR,05,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+173,2020-12-19,Prasoon Kumar Agarwal ,23,95.4,Cough,None of the Above,No,No,No,Green,Yes,Yes,47,Male
+174,2020-12-19,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+175,2020-12-19,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+176,2020-12-19,Virendra Kumar Dahayat,49,96.63,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+177,2020-12-19,Pritam Singh,24,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+178,2020-12-19,Digvijay singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+179,2020-12-19,PRAMOD KUMAR,21,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+180,2020-12-19,Neetu,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+181,2020-12-19,Rachit Kumar Verma,25,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+182,2020-12-19,Shivendra Kumar Singh,34,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+183,2020-12-19,Sudhir kumar,38,96.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+184,2020-12-19,Ishan Tamrakar ,13,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+185,2020-12-19,Jugraj Singh bhadauriya,15,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+186,2020-12-19,Ram Milan Singh ,28,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+187,2020-12-19,Shivam Tripathi ,33,96,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+188,2020-12-19,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+189,2020-12-19,Abhay kumar singh,01,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+190,2020-12-19,Arvind Kumar shukla ,06,98.3,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+191,2020-12-19,Ramanand Patel ,29,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+192,2020-12-19,Yashraj Singh,50,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+193,2020-12-19,Vinay Kumar,46,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+194,2020-12-19,Madhav Mishra,16,98,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+195,2020-12-19,Suneet Singh,40,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+196,2020-12-20,Ishan Tamrakar ,13,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+197,2020-12-20,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+198,2020-12-20,Tajinder Pal Singh,41,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+199,2020-12-20,Uttam Kumar,44,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+200,2020-12-20,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+201,2020-12-20,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+202,2020-12-20,Shiva Pratap Singh,35,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+203,2020-12-20,Satish Saini,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+204,2020-12-20,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+205,2020-12-20,Anuj chanchal,03,95.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+206,2020-12-20,Gajendra Singh Chouhan,10,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+207,2020-12-20,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+208,2020-12-20,Vinay Kumar Yadav ,47,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+209,2020-12-20,Pankaj Kumar ,18,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+210,2020-12-20,Ram Milan Singh ,28,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+211,2020-12-20,Rahul Kumar Chaudhary,27,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+212,2020-12-20,Arvind Kumar shukla,06,97,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+213,2020-12-20,TOKESH KUMAR NAGWANSHI,43,95.4,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+214,2020-12-20,Ramanand Patel ,29,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+215,2020-12-20,Rachit Kumar Verma,25,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+216,2020-12-20,ARUN SAKWAR,05,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+217,2020-12-20,Devanand sahu,08,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+218,2020-12-20,Shri Kant ,36,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+219,2020-12-20,Ajay kumar Sharma,2,99.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+220,2020-12-20,PRAMOD KUMAR,21,96.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+221,2020-12-20,Deepak Yadav,07,97.2,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Female
+222,2020-12-20,Vikas Sati ,45,97.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+223,2020-12-20,Shivendra Kumar singh,34,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+224,2020-12-20,DIGVIJAY singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,No,No,30,Male
+225,2020-12-20,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+226,2020-12-20,Sumit joshi,39,95.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+227,2020-12-20,Abhay kumar singh,01,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+228,2020-12-20,Pritam Singh,24,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+229,2020-12-20,Rahul Gupta,26,97.6,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+230,2020-12-20,Rahul Gupta,26,97.6,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+231,2020-12-20,Vipin chourasiya,48,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+232,2020-12-20,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+233,2020-12-20,Sudhir kumar,38,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+234,2020-12-20,ANUP KUMAR CHAUBEY,4,97.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+235,2020-12-20,Shivam Tripathi ,33,96,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+236,2020-12-20,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+237,2020-12-20,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+238,2020-12-20,Virendra Kumar Dahayat,49,96.08,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+239,2020-12-20,Prasoon Kumar Agarwal ,23,95.6,Cough,None of the Above,Yes,No,No,Green,No,Yes,47,Male
+240,2020-12-20,Saurav Bhandari ,32,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+241,2020-12-20,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+242,2020-12-20,Gaurav Chaudhary ,11,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+243,2020-12-21,Prashant Yadav,22,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+244,2020-12-21,Prashant Yadav,22,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+245,2020-12-21,Deepak Yadav,07,97.6,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+246,2020-12-21,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+247,2020-12-21,Vinay Kumar Yadav ,47,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+248,2020-12-21,Vinay Kumar Yadav ,47,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+249,2020-12-21,Gaurav Chaudhary ,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+250,2020-12-21,SATISH SAINI,31,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+251,2020-12-21,Ramanand Patel ,29,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+252,2020-12-21,Abhay kumar singh,01,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+253,2020-12-21,Shiva Pratap Singh,35,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+254,2020-12-21,Pankaj Kumar ,18,95.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+255,2020-12-21,Indresh Kumar,12,98.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+256,2020-12-21,Subodh kumar dev,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+257,2020-12-21,Sandeep Singh Rathore,30,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+258,2020-12-21,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+259,2020-12-21,Gajendra Singh Chouhan,10,97.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+260,2020-12-21,Uttam Kumar,44,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+261,2020-12-21,Ishan Tamrakar ,13,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+262,2020-12-21,Digvijay singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+263,2020-12-21,Anuj chanchal,03,96.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+264,2020-12-21,Ram Milan Singh ,28,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+265,2020-12-21,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+266,2020-12-21,Virendra Kumar Dahayat,49,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+267,2020-12-21,Pritam Singh,24,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+268,2020-12-21,Yashraj singh,50,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+269,2020-12-21,Saurav Bhandari ,32,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+270,2020-12-21,Rachit Kumar Verma,25,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+271,2020-12-21,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+272,2020-12-21,Devanand sahu,8,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+273,2020-12-21,Shri Kant ,36,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+274,2020-12-21,Prasoon Kumar Agarwal ,23,96.8,Cough,None of the Above,Yes,No,No,Green,Yes,Yes,47,Male
+275,2020-12-21,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+276,2020-12-21,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+277,2020-12-21,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+278,2020-12-21,PRAMOD KUMAR,21,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+279,2020-12-21,Vikas Sati ,45,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+280,2020-12-21,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+281,2020-12-21,Suneet Singh,40,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+282,2020-12-21,Sumit Joshi,39,95.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+283,2020-12-21,Shivendra Kumar singh,34,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+284,2020-12-21,Rahul Gupta,26,98,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+285,2020-12-21,Rahul Gupta,26,98,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+286,2020-12-21,Rahul Gupta,26,98,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+287,2020-12-21,Tajinder Pal Singh,41,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+288,2020-12-21,Ajay kumar Sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+289,2020-12-21,Virendra Kumar Dahayat,49,96.09,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+290,2020-12-21,Arun Sakwar,05,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+291,2020-12-21,Vipin chourasiya,48,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+292,2020-12-22,Rahul Gupta,26,97.8,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+293,2020-12-22,Satish Saini,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+294,2020-12-22,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+295,2020-12-22,Ishan Tamrakar ,13,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+296,2020-12-22,ANUP KUMAR CHAUBEY,4,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+297,2020-12-22,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+298,2020-12-22,Prabhu Prasad Patra,19,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+299,2020-12-22,Vinay Kumar Yadav ,47,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+300,2020-12-22,Vinay Kumar Yadav ,47,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+301,2020-12-22,Anuj chanchal,03,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+302,2020-12-22,Ramanand Patel ,29,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+303,2020-12-22,Gajendra Singh Chouhan,10,98.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+304,2020-12-22,Digvijay Singh Parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+305,2020-12-22,Gaurav Chaudhary ,11,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+306,2020-12-22,Arun Sakwar,05,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+307,2020-12-22, Suneet Singh,40,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+308,2020-12-22,Pankaj Kumar ,18,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+309,2020-12-22,Rachit Kumar Verma,25,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+310,2020-12-22,Rachit Kumar Verma,25,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+311,2020-12-22,Pritam Singh,24,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+312,2020-12-22,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+313,2020-12-22,Shiva Pratap Singh,35,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+314,2020-12-22,Uttam Kunar,44,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+315,2020-12-22,Vipin Chourasiya,48,96.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+316,2020-12-22,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+317,2020-12-22,TOKESH KUMAR NAGWANSHI,43,96,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+318,2020-12-22,Subodh kumar dev,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+319,2020-12-22,Deepak Yadav,07,97,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+320,2020-12-22,Devanand sahu,8,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+321,2020-12-22,Vikas Sati ,45,97.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+322,2020-12-22,Virendra Kumar Dahayat,49,97.01,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+323,2020-12-22,Shri Kant ,36,95.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+324,2020-12-22,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+325,2020-12-22,PRABHU SHANKAR PRASAD,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+326,2020-12-22,Abhay Kumar singh,01,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+327,2020-12-22,Rahul Kumar Chaudhary,27,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+328,2020-12-22,Sumit Joshi,39,95.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+329,2020-12-22,PRAMOD KUMAR,21,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+330,2020-12-22,Yashraj Singh,50,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+331,2020-12-22,Prasoon Kumar Agarwal ,23,96.8,Cough,None of the Above,No,No,No,Green,Yes,Yes,47,Female
+332,2020-12-22,Ajay kumar sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+333,2020-12-22,Vinay Kumar,46,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+334,2020-12-22,Tajinder Pal Singh,41,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+335,2020-12-22,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+336,2020-12-22,Ram Milan Singh,28,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+337,2020-12-22,Saurav Bhandari ,32,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+338,2020-12-22,Arvind Kumar shukla,06,96,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+339,2020-12-22,Madhav mishra,16,98,Cough,None of the Above,No,No,No,Green,No,Yes,36,Male
+340,2020-12-22,Shivendra Kumar singh,34,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+341,2020-12-23,Prashant Yadav,22,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+342,2020-12-23,Prashant Yadav,22,96.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+343,2020-12-23,Tarun sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+344,2020-12-23,Uttam Kumar,44,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+345,2020-12-23,Tajinder Pal Singh,41,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+346,2020-12-23,Shiva Pratap Singh,35,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+347,2020-12-23,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+348,2020-12-23,Satish Saini,31,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+349,2020-12-23,SUBODH KUMAR DEV,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+350,2020-12-23,Rahul Gupta,26,97.7,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+351,2020-12-23,Gaurav Chaudhary ,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+352,2020-12-23,Pritam Singh,24,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+353,2020-12-23,ANUP KUMAR CHAUBEY,4,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+354,2020-12-23,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+355,2020-12-23,Ishan Tamrakar ,13,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+356,2020-12-23,SHIVENDRA KUMAR SINGH,34,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+357,2020-12-23,Prabhu Shankar Prasad,20,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+358,2020-12-23,Shri Kant ,36,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+359,2020-12-23,Devanand sahu,8,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+360,2020-12-23,Arun Sakwar,05,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+361,2020-12-23,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+362,2020-12-23,TOKESH KUMAR NAGWANSHI,43,96,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+363,2020-12-23,Saurav Bhandari ,32,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+364,2020-12-23,Gajendra Singh Chouhan,10,98.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+365,2020-12-23,Vinay Kumar Yadav ,47,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+366,2020-12-23,Rachit Kumar Verma,25,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+367,2020-12-23,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Prefer not to say
+368,2020-12-23,Rahul Kumar Chaudhary,27,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+369,2020-12-23,Jugraj Singh bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+370,2020-12-23,Neetu Rathore,17,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+371,2020-12-23,Abhay kumar singh,01,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+372,2020-12-23,Deepak Yadav,07,97.6,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+373,2020-12-23,Anuj chanchal,03,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+374,2020-12-23,Virendra Kumar Dahayat,49,95.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+375,2020-12-23,Digvijay singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+376,2020-12-23,Sumit joshi,39,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+377,2020-12-23,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+378,2020-12-23,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+379,2020-12-23,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+380,2020-12-23,Sandeep Singh Rathore,30,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+381,2020-12-23,Vipin chourasiya,48,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+382,2020-12-23,Ramanand Patel ,29,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+383,2020-12-23,Suneet Singh,40,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+384,2020-12-23,Sudhirkumar,38,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+385,2020-12-23,PRAMOD KUMAR,21,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+386,2020-12-23,Arvind Kumar shukla,06,96,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+387,2020-12-23,Ram Milan Singh ,28,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+388,2020-12-23,Vikas Sati,45,97.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+389,2020-12-23,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+390,2020-12-23,Ajay kumar sharma,2,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+391,2020-12-23,Vinay Kumar,46,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+392,2020-12-23,Sudhir kumar,38,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+393,2020-12-23,Prasoon Kumar Agarwal ,23,96.8,Cough,None of the Above,Yes,No,No,Green,Yes,Yes,47,Male
+394,2020-12-23,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+395,2020-12-24,Ishan Tamrakar ,13,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+396,2020-12-24,Ramanand Patel ,29,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+397,2020-12-24,Arun Sakwar,05,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+398,2020-12-24,Satish Saini,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+399,2020-12-24,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+400,2020-12-24,Vinay Kumar Yadav ,47,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+401,2020-12-24,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+402,2020-12-24,Vinay Kumar Yadav ,47,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+403,2020-12-24,Neetu Rathore,17,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+404,2020-12-24,Uttam Kumar,44,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+405,2020-12-24,Tajinder Pal Singh,41,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+406,2020-12-24,Jugraj Singh Bhadauriya ,15,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+407,2020-12-24,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+408,2020-12-24,Anuj chanchal,03,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+409,2020-12-24,Gajendra Singh Chouhan,10,98.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+410,2020-12-24,Pritam Singh,24,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+411,2020-12-24,Deepak Yadav,07,97.6,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+412,2020-12-24,Deepak Yadav,07,97.8,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+413,2020-12-24,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+414,2020-12-24,Rahul Kumar Chaudhary,27,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+415,2020-12-24,ANUP KUMAR CHAUBEY,4,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+416,2020-12-24,Shiva Pratap Singh,35,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+417,2020-12-24,Abhay kumar singh,01,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+418,2020-12-24,Rahul Gupta,26,97.8,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+419,2020-12-24,Madhav Mishra,16,98,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+420,2020-12-24,Digvijay Singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+421,2020-12-24,Virendra Kumar Dahayat,49,97.01,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+422,2020-12-24,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+423,2020-12-24,Shivendra Kumar Singh,34,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+424,2020-12-24,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+425,2020-12-24,Prabhu Prasad Patra,19,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+426,2020-12-24,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+427,2020-12-24,Saurav Bhandari ,32,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+428,2020-12-24,Vikas Sati,45,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+429,2020-12-24,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+430,2020-12-24,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+431,2020-12-24,Gaurav Chaudhary ,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+432,2020-12-24,Rachit Kumar Verma,25,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+433,2020-12-24,Devanand sahu,8,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+434,2020-12-24,Prasoon Kumar Agarwal ,23,97.2,Cough,None of the Above,Yes,No,No,Green,Yes,Yes,47,Male
+435,2020-12-24,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+436,2020-12-24,Yashraj Singh,50,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+437,2020-12-24,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+438,2020-12-24,Sudhir kumar,38,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+439,2020-12-24,Ajay Kumar Sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+440,2020-12-24,Ajay Kumar Sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+441,2020-12-24,Ram Milan Singh ,28,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+442,2020-12-24,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+443,2020-12-24,Suneet Singh,40,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+444,2020-12-24,Sumit joshi,39,95.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+445,2020-12-24,PRAMOD KUMAR,21,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+446,2020-12-24,Prashant Yadav,22,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+447,2020-12-24,Vinay Kumar,46,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+448,2020-12-24,ARVIND KUMAR SHUKLA,06,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+449,2020-12-25,Ishan Tamrakar ,13,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+450,2020-12-25,Ishan Tamrakar ,13,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+451,2020-12-25,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+452,2020-12-25,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+453,2020-12-25,Arun Sakwar,05,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+454,2020-12-25,Shiva Pratap Singh,35,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+455,2020-12-25,Satish Saini,31,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+456,2020-12-25,TOKESH KUMAR NAGWANSHI,43,96,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+457,2020-12-25,Rahul Gupta,26,97.6,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+458,2020-12-25,Rahul Gupta,26,97.6,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+459,2020-12-25,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+460,2020-12-25,Anuj chanchal,03,95.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+461,2020-12-25,Pritam Singh,24,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+462,2020-12-25,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+463,2020-12-25,Madhav mishra,16,98,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+464,2020-12-25,Gaurav Chaudhary ,11,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+465,2020-12-25,Gajendra Singh Chouhan,10,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+466,2020-12-25,Devanand sahu,8,96.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+467,2020-12-25,Uttam Kumar,44,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+468,2020-12-25,Pankaj Kumar ,18,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+469,2020-12-25,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+470,2020-12-25,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+471,2020-12-25,ANUP KUMAR CHAUBEY,4,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+472,2020-12-25,Abhay kumar singh,01,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+473,2020-12-25,Suneet Singh,40,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+474,2020-12-25,Shivendra Kumar singh,34,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+475,2020-12-25,Ram Milan Singh ,28,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+476,2020-12-25,Virendra Kumar Dahayat,49,96.53,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+477,2020-12-25,Sudhir kumar,38,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+478,2020-12-25,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+479,2020-12-25,Pramod Kumar,21,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+480,2020-12-25,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+481,2020-12-25,Rachit Kumar Verma,25,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+482,2020-12-25,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+483,2020-12-25,Rahul Kumar Chaudhary,27,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+484,2020-12-25,Prasoon Kumar Agarwal ,23,99,Cough,None of the Above,Yes,No,No,Green,Yes,Yes,47,Male
+485,2020-12-25,Vinay Kumar Yadav ,47,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+486,2020-12-25,Vinay Kumar Yadav ,47,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+487,2020-12-25,Vikas Sati ,45,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+488,2020-12-25,Saurav Bhandari ,32,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+489,2020-12-25,Deepak Yadav,07,97.8,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+490,2020-12-25,Deepak Yadav,07,97.8,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+491,2020-12-25,Ajay kumar sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+492,2020-12-25,AJAY KUMAR SHARMA,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+493,2020-12-25,Vipin chourasiya,48,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+494,2020-12-25,Shri Kant ,36,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+495,2020-12-25,Shri Kant ,36,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+496,2020-12-25,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+497,2020-12-25,Digvijay singh par3,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+498,2020-12-25,Tajinder Pal Singh,41,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+499,2020-12-25,Sumit joshi,39,95.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+500,2020-12-25,Pritam Singh,24,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+501,2020-12-26,Ishan Tamrakar ,13,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+502,2020-12-26,Deepak Yadav,07,97.8,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+503,2020-12-26,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+504,2020-12-26,Satish Saini,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+505,2020-12-26,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+506,2020-12-26,Uttam Kumar,44,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+507,2020-12-26,Vinay Kumar Yadav ,47,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+508,2020-12-26,Tajinder Pal Singh,41,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+509,2020-12-26,ANUP KUMAR CHAUBEY,4,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+510,2020-12-26,Subodh kumar dev,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+511,2020-12-26,Anuj Chanchal,03,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+512,2020-12-26,Pritam Singh,24,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+513,2020-12-26,Subodh kumar dev,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+514,2020-12-26,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+515,2020-12-26,Ramanand Patel ,29,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+516,2020-12-26,Jugraj Singh Bhadauriya ,15,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+517,2020-12-26,Yashraj singh,50,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+518,2020-12-26,Rahul Kumar Chaudhary,27,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+519,2020-12-26,Saurav Bhandari ,32,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+520,2020-12-26,TOKESH KUMAR NAGWANSHI,43,96,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+521,2020-12-26,Madhav Mishra,16,98,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+522,2020-12-26,Gajendra Singh Chouhan,10,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+523,2020-12-26,Gajendra Singh Chouhan,10,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+524,2020-12-26,PRAMOD KUMAR,21,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+525,2020-12-26,Devanand sahu,8,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+526,2020-12-26,Prabhu Prasad Patra,19,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+527,2020-12-26,Arun Sakwar,05,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+528,2020-12-26,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+529,2020-12-26,Shivendra Kumar singh,34,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+530,2020-12-26,Digvijay singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+531,2020-12-26,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+532,2020-12-26,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+533,2020-12-26,Suneet Singh,40,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+534,2020-12-26,Ram Milan Singh ,28,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+535,2020-12-26,Vikas Sati ,45,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+536,2020-12-26,Sudhir kumar,38,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+537,2020-12-26,Prasoon Kumar Agarwal ,23,98.9,Cough,None of the Above,Yes,No,No,Green,Yes,Yes,47,Male
+538,2020-12-26,Vipin chourasiya,48,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+539,2020-12-26,Deepak Yadav,07,97.8,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+540,2020-12-26,Deepak Yadav,07,97.6,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+541,2020-12-26,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+542,2020-12-26,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+543,2020-12-26,Ajay kumar sharma,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+544,2020-12-26,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+545,2020-12-26,Rachit kumar verma,25,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+546,2020-12-26,Rahul Gupta,26,98.1,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+547,2020-12-26,Sumit joshi,39,95.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+548,2020-12-26,Neetu Rathore,172,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+549,2020-12-26,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+550,2020-12-26,Gaurav Chaudhary ,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+551,2020-12-26,Prashant Yadav,22,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+552,2020-12-26,Virendra Kumar Dahayat,49,97.89,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+553,2020-12-26,Shiva Pratap Singh,35,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+554,2020-12-26,Abhay kumar singh,01,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+555,2020-12-26,Sumit joshi,39,95.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+556,2020-12-26,Arvind Kumar shukla,06,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+557,2020-12-27,Ishan Tamrakar ,13,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+558,2020-12-27,Yashraj Singh,50,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+559,2020-12-27,Vinay Kumar Yadav ,47,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+560,2020-12-27,Vinay Kumar Yadav ,47,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+561,2020-12-27,Arun Sakwar,05,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+562,2020-12-27,Uttam Kumar,44,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+563,2020-12-27,Shri Kant ,36,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+564,2020-12-27,Satish Saini,31,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+565,2020-12-27,Gajendra Singh Chouhan,10,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+566,2020-12-27,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+567,2020-12-27,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+568,2020-12-27,Shiva Pratap Singh,35,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+569,2020-12-27,Anuj chanchal,03,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+570,2020-12-27,Tajinder Pal Singh,41,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+571,2020-12-27,Gaurav Chaudhary ,11,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+572,2020-12-27,TOKESH KUMAR NAGWANSHI,43,96,None of the Above,Kidney Disease,No,No,No,Red,Yes,Yes,35,Male
+573,2020-12-27,Devanand sahu,8,97.5,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,28,Male
+574,2020-12-27,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+575,2020-12-27,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+576,2020-12-27,Abhay kumar singh,01,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+577,2020-12-27,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+578,2020-12-27,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+579,2020-12-27,Vipin chourasiya,48,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+580,2020-12-27,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+581,2020-12-27,Vikas Sati ,45,97.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+582,2020-12-27,Jugraj Singh Bhadauriya ,15,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+583,2020-12-27,Subodh kumar dev,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+584,2020-12-27,Saurav Bhandari ,32,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+585,2020-12-27,Deepak Yadav,07,97.2,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+586,2020-12-27,Sumit Joshi,39,95.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+587,2020-12-27,Pramod Kumar,21,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+588,2020-12-27,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+589,2020-12-27,Rahul Gupta,26,97.8,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+590,2020-12-27,Ram Milan Singh ,28,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+591,2020-12-27,SHIVENDRA KUMAR SINGH,34,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+592,2020-12-27,Vinay Kumar,46,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+593,2020-12-27,ANUP KUMAR CHAUBEY,4,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+594,2020-12-27,Sandeep Singh Rathore,30,98.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+595,2020-12-27,Ajay kumar sharma,2,99.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+596,2020-12-27,Rachit Kumar Verma,25,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+597,2020-12-27,Sudhir kumar,38,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+598,2020-12-27,Digvijay singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+599,2020-12-27,Ramanand Patel ,29,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+600,2020-12-27,Prasoon Kumar Agarwal ,23,98.7,"Cough, Fever",None of the Above,Yes,No,No,Green,Yes,Yes,47,Male
+601,2020-12-27,Arvind Kumar shukla,06,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+602,2020-12-27,Madhav mishra,16,98,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+603,2020-12-27,Pritam Singh,24,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+604,2020-12-27,Rahul Kumar Chaudhary,27,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+605,2020-12-28,Virendra Kumar Dahayat,49,95.03,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+606,2020-12-28,Ishan Tamrakar ,13,98.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+607,2020-12-28,Prashant Yadav,22,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+608,2020-12-28,Gajendra Singh Chouhan,10,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+609,2020-12-28,Shiva Pratap Singh,35,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+610,2020-12-28,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+611,2020-12-28,Uttam Kumar,44,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+612,2020-12-28,Prabhu Prasad Patra,19,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+613,2020-12-28,Satish Saini ,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+614,2020-12-28,Vinay Kumar Yadav ,47,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+615,2020-12-28,Vinay Kumar Yadav ,47,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+616,2020-12-28,Vinay Kumar Yadav ,47,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+617,2020-12-28,Tajinder Pal Singh,41,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+618,2020-12-28,Digvijay Singh Parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+619,2020-12-28,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+620,2020-12-28,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+621,2020-12-28,Arun Sakwar,05,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+622,2020-12-28,Vikas Sati ,45,97.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+623,2020-12-28,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+624,2020-12-28,Jugraj Singh Bhadauriya ,15,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+625,2020-12-28,Subodh kumar dev,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+626,2020-12-28,Gaurav Chaudhary ,11,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+627,2020-12-28,Rahul Gupta,26,97.4,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+628,2020-12-28,Abhay kumar singh,01,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+629,2020-12-28,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+630,2020-12-28,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+631,2020-12-28,Devanand sahu,8,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+632,2020-12-28,Anuj chanchal,03,96.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+633,2020-12-28,Rahul Kumar Chaudhary,27,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+634,2020-12-28,Saurav Bhandari ,32,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+635,2020-12-28,Pritam Singh,24,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+636,2020-12-28,Virendra Kumar Dahayat,49,95.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+637,2020-12-28,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+638,2020-12-28,Yashraj Singh,50,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+639,2020-12-28,Sunset Singh,40,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+640,2020-12-28,Deepak Yadav,07,97.6,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+641,2020-12-28,Suneet Singh,40,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+642,2020-12-28,Vipin chourasiya,48,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+643,2020-12-28,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+644,2020-12-28,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+645,2020-12-28,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+646,2020-12-28,SHIVENDRA KUMAR SINGH,34,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+647,2020-12-28,Rachit Kumar Verma,25,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+648,2020-12-28,Sumit joshi,39,95.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+649,2020-12-28,ANUP KUMAR CHAUBEY,4,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+650,2020-12-28,Sudhir kumar,38,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+651,2020-12-28,Ajay Kumar Sharma,2,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+652,2020-12-28,PRAMOD KUMAR,21,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+653,2020-12-28,Prasoon Kumar Agarwal ,23,98.8,"Cough, Fever",None of the Above,Yes,Yes,Yes,Green,Yes,Yes,47,Male
+654,2020-12-28,Ramanand Patel ,29,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+655,2020-12-28,Arvind Kumar shukla,06,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+656,2020-12-28,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+657,2020-12-28,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+658,2020-12-29,Ishan Tamrakar ,13,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+659,2020-12-29,Uttam Kumar,44,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+660,2020-12-29,Rahul Gupta,26,98,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+661,2020-12-29,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+662,2020-12-29,Vikas Sati ,45,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+663,2020-12-29,Pritam Singh,24,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+664,2020-12-29,Ram Milan Singh ,28,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+665,2020-12-29,Ram Milan Singh ,28,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+666,2020-12-29,Vinay Kumar Yadav ,47,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+667,2020-12-29,Shiva Pratap Singh,35,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+668,2020-12-29,Satish Saini,31,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+669,2020-12-29,Devanand sahu,8,97.5,None of the Above,None of the Above,No,No,No,Green,No,No,28,Male
+670,2020-12-29,Devanand sahu,8,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+671,2020-12-29,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+672,2020-12-29,Prabhu Shankar Prasad,20,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+673,2020-12-29,Anuj chanchal,03,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+674,2020-12-29,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+675,2020-12-29,Digvijay singh Parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+676,2020-12-29,Tajinder Pal Singh,41,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+677,2020-12-29,Gajendra Singh Chouhan,10,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+678,2020-12-29,Ramanand Patel ,29,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+679,2020-12-29,Gaurav Chaudhary ,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+680,2020-12-29,Vipin chourasiya,48,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Female
+681,2020-12-29,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+682,2020-12-29,Yashraj Singh,50,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+683,2020-12-29,Rahul Kumar Chaudhary,27,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+684,2020-12-29,Sumit joshi,39,95.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+685,2020-12-29,Subodh kumar dev,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+686,2020-12-29,Arun Sakwar,05,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+687,2020-12-29,Pramod Kumar,21,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+688,2020-12-29,Abhay kumar singh,01,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+689,2020-12-29,Rachit Kumar Verma,25,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+690,2020-12-29,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+691,2020-12-29,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+692,2020-12-29,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+693,2020-12-29,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+694,2020-12-29,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+695,2020-12-29,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+696,2020-12-29,ANUP KUMAR CHAUBEY,4,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+697,2020-12-29,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+698,2020-12-29,AJAY KUMAR SHARMA,2,99,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+699,2020-12-29,SHIVENDRA KUMAR SINGH,34,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+700,2020-12-29,Suneet Singh,40,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+701,2020-12-29,Deepak Yadav,07,97.6,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+702,2020-12-29,Deepak Yadav,07,97.4,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+703,2020-12-29,Saurav Bhandari ,32,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+704,2020-12-29,Sudhir kumar,38,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+705,2020-12-29,Madhav mishra,16,98,"Cough, Fever",None of the Above,No,No,No,Green,Yes,Yes,36,Male
+706,2020-12-29,Virendra Kumar Dahayat,49,96.78,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+707,2020-12-29,Vinay Kumar,46,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+708,2020-12-29,Ajay kumar Sharma,2,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+709,2020-12-29,Virendra Kumar Dahayat,49,96.78,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+710,2020-12-29,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+711,2020-12-29,Ram Milan Singh ,28,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+712,2020-12-29,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+713,2020-12-29,Arvind Kumar shukla,06,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+714,2020-12-29,Prasoon Kumar Agarwal ,23,98.9,"Cough, Fever",None of the Above,Yes,No,No,Green,Yes,Yes,47,Male
+715,2020-12-30,Ishan Tamrakar ,13,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+716,2020-12-30,Prashant Yadav,22,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+717,2020-12-30,Prashant Yadav,22,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+718,2020-12-30,Arun Sakwar,05,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+719,2020-12-30,Gajendra Singh Chouhan,10,98.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+720,2020-12-30,Satish Saini,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+721,2020-12-30,Tajinder Pal Singh,41,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+722,2020-12-30,Yashraj Singh ,50,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+723,2020-12-30,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+724,2020-12-30,Vikas Sati ,45,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+725,2020-12-30,Shiva Pratap Singh,35,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+726,2020-12-30,Ram Milan Singh,28,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+727,2020-12-30,Indresh Kumar,12,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+728,2020-12-30,Gaurav Chaudhary ,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+729,2020-12-30,Uttam Kumar,44,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+730,2020-12-30,Virendra Kumar Dahayat,49,97.08,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+731,2020-12-30,ANUP KUMAR CHAUBEY,4,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+732,2020-12-30,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+733,2020-12-30,Digvijay Singh Parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+734,2020-12-30,Vinay Kumar Yadav ,47,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+735,2020-12-30,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+736,2020-12-30,Abhay kumar singh,01,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+737,2020-12-30,Rahul Gupta,26,98.2,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+738,2020-12-30,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+739,2020-12-30,Jagdish Chandra Palariya,14,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+740,2020-12-30,Anuj Chanchal,03,96.7,None of the Above,None of the Above,No,No,No,Green,No,No,26,Male
+741,2020-12-30,Devanand sahu,8,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+742,2020-12-30,Vipin chourasiya,48,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Female
+743,2020-12-30,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+744,2020-12-30,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+745,2020-12-30,Sandeep Singh Rathore,30,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+746,2020-12-30,Rahul Kumar Chaudhary,27,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+747,2020-12-30,Ramanand Patel ,29,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+748,2020-12-30,Prabhu Shankar Prasad,20,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+749,2020-12-30,Gaurav Chaudhary ,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+750,2020-12-30,Deepak Yadav,07,98,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+751,2020-12-30,Saurav Bhandari ,32,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+752,2020-12-30,Pritam Singh,24,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+753,2020-12-30,Suneet Singh,40,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+754,2020-12-30,Prasoon Kumar Agarwal ,23,98.9,"Cough, Fever",None of the Above,Yes,No,No,Green,Yes,Yes,47,Male
+755,2020-12-30,Rachit Kumar Verma,25,96.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+756,2020-12-30,Shivam Tripathi ,26,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,33,Male
+757,2020-12-30,Vinay Kumar,46,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+758,2020-12-30,Sudhir kumar,38,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+759,2020-12-30,Shivendra Kumar singh,34,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+760,2020-12-30,Arvind Kumar shukla ,06,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+761,2020-12-30,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+762,2020-12-30,Pritam Singh,24,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+763,2020-12-30,Madhav Mishra,16,98,"Cough, Fever",None of the Above,No,No,No,Green,Yes,Yes,36,Male
+764,2020-12-30,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Yellow,Yes,Yes,26,Male
+765,2020-12-30,Pramod Kumar,21,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+766,2020-12-30,Neetu Rathore,17,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+767,2020-12-30,Ajay Kumar Sharma,2,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+768,2020-12-30,AJAY KUMAR SHARMA,2,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+769,2020-12-31,Ishan Tamrakar ,13,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+770,2020-12-31,Prashant Yadav,22,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+771,2020-12-31,Deepak Yadav,07,97.4,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+772,2020-12-31,Deepak Yadav,07,97.5,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+773,2020-12-31,Rahul Gupta,26,97.8,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+774,2020-12-31,Rahul Gupta,26,97.8,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+775,2020-12-31,Vinay Kumar Yadav ,47,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+776,2020-12-31,ANUP KUMAR CHAUBEY,4,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+777,2020-12-31,Ram Milan Singh ,28,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+778,2020-12-31,Jugraj Singh Bhadauriya ,15,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+779,2020-12-31,Vikas Sati ,45,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+780,2020-12-31,Ramanand Patel ,29,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+781,2020-12-31,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+782,2020-12-31,Gajendra Singh Chouhan,10,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+783,2020-12-31,Pritam Singh,24,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+784,2020-12-31,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+785,2020-12-31,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+786,2020-12-31,Satish Saini,31,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+787,2020-12-31,Shiva Pratap Singh,35,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+788,2020-12-31,Sumit joshi,39,95.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+789,2020-12-31,Sumit Joshi,39,95.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+790,2020-12-31,Arun Sakwar,05,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+791,2020-12-31,Uttam Kumar,44,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+792,2020-12-31,Rahul Kumar Chaudhary,27,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+793,2020-12-31,Tajinder Pal Singh,41,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+794,2020-12-31,Gaurav Chaudhary ,11,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+795,2020-12-31,Devanand sahu,8,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+796,2020-12-31,Prabhu Shankar Prasad,20,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+797,2020-12-31,Subodh kumar dev,37,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+798,2020-12-31,Deepak Yadav,07,97.4,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,33,Male
+799,2020-12-31,Yashraj Singh ,50,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+800,2020-12-31,Anuj chanchal,03,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+801,2020-12-31,Digvijay Singh Parmar,9,96,None of the Above,None of the Above,No,No,Yes,Green,Yes,Yes,30,Male
+802,2020-12-31,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+803,2020-12-31,Saurav Bhandari ,32,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+804,2020-12-31,Pramod Kumar,21,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+805,2020-12-31,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+806,2020-12-31,Prabhu Prasad Patra,19,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+807,2020-12-31,Rachit Kumar Verma,25,95.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+808,2020-12-31,Vipin chourasiya,48,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+809,2020-12-31,Vinay Kumar,46,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+810,2020-12-31,Jagdish Chandra Palariya,14,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+811,2020-12-31,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+812,2020-12-31,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+813,2020-12-31,AJAY KUMAR SHARMA,2,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+814,2020-12-31,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+815,2020-12-31,Sudhir kumar,38,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+816,2020-12-31,Abhay kumar singh,01,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+817,2020-12-31,Arvind Kumar shukla,06,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+818,2020-12-31,Suneet Singh,40,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+819,2020-12-31,Madhav mishra,16,98,"Cough, Fever",None of the Above,No,No,No,Green,Yes,Yes,36,Male
+820,2020-12-31,Pritam Singh,24,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+821,2020-12-31,Shivendra Kumar Singh,34,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+822,2021-01-01,Sumit joshi,39,96.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+823,2021-01-01,Ishan Tamrakar ,13,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+824,2021-01-01,Tajinder Pal Singh,41,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+825,2021-01-01,Jubraj Singh bhadauriya,15,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+826,2021-01-01,Shiva Pratap Singh,35,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+827,2021-01-01,Uttam Kumar,44,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+828,2021-01-01,Anuj chanchal,03,95.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+829,2021-01-01,Indresh Kumar,12,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+830,2021-01-01,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+831,2021-01-01,Gajendra Singh Chouhan,10,98.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+832,2021-01-01,Sandeep Singh Rathore,30,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+833,2021-01-01,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+834,2021-01-01,Vipin chourasiya,48,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+835,2021-01-01,Gaurav Chaudhary ,11,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+836,2021-01-01,Prasoon Kumar Agarwal ,23,98.9,Cough,None of the Above,No,No,No,Green,Yes,Yes,47,Male
+837,2021-01-01,Arun Sakwar,05,96.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+838,2021-01-01,Prabhu Shankar Prasad,20,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+839,2021-01-01,Yashraj Singh,50,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+840,2021-01-01,Satish Saini,31,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+841,2021-01-01,Rahul Gupta,26,98.1,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+842,2021-01-01,ANUP KUMAR CHAUBEY,4,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+843,2021-01-01,Digvijay Singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+844,2021-01-01,ANUP KUMAR CHAUBEY,4,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+845,2021-01-01,Prabhu Prasad Patra,19,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+846,2021-01-01,Rahul Kumar Chaudhary,27,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+847,2021-01-01,Shivendra Kumar Singh,34,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+848,2021-01-01,Abhay kumar singh,01,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+849,2021-01-01,Vikas Sati ,45,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+850,2021-01-01,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+851,2021-01-01,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+852,2021-01-01,Deepak Yadav,07,97.5,None of the Above,None of the Above,Yes,No,No,Green,Yes,Yes,32,Male
+853,2021-01-01,Deepak Yadav,07,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+854,2021-01-01,Sudhir kumar,38,96.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+855,2021-01-01,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+856,2021-01-01,Vinay Kumar Yadav ,47,97.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+857,2021-01-01,Tarun Sakwar,42,97,None of the Above,None of the Above,No,No,No,Green,No,No,37,Male
+858,2021-01-01,Saurav Bhandari ,32,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+859,2021-01-01,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+860,2021-01-01,Virendra Kumar Dahayat,49,95.76,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+861,2021-01-01,Pramod Kumar,21,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+862,2021-01-01,Ramanand Patel ,29,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+863,2021-01-01,Pritam Singh,24,97.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+864,2021-01-01,Prashant Yadav,22,96.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+865,2021-01-01,Rachit Kumar Verma,25,97.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+866,2021-01-01,Ram Milan Singh ,28,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+867,2021-01-01,Shri Kant ,36,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+868,2021-01-01,Jagdish Chandra Palariya,14,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+869,2021-01-01,Ajay Kumar Sharma,2,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+870,2021-01-01,Suneet Singh,40,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+871,2021-01-01,Vipin chourasiya,48,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+872,2021-01-01,Arvind Kumar shukla,06,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+873,2021-01-01,Devanand sahu,8,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+874,2021-01-01,Shivendra Kumar Singh,34,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+875,2021-01-02,Prashant Yadav,22,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+876,2021-01-02,Jugraj Singh Bhadauriya ,15,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+877,2021-01-02,Ishan Tamrakar ,13,98.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+878,2021-01-02,Prabhu Shankar Prasad,20,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+879,2021-01-02,Prasoon Kumar Agarwal ,23,98.9,Cough,None of the Above,No,No,No,Green,Yes,Yes,47,Male
+880,2021-01-02,Arun Sakwar,05,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+881,2021-01-02,Satish Saini,31,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+882,2021-01-02,Anuj chanchal,03,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+883,2021-01-02,Shiva Pratap Singh,35,96.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+884,2021-01-02,Gajendra Singh Chouhan,10,97.9,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,43,Male
+885,2021-01-02,Indresh Kumar,12,98.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+886,2021-01-02,Pritam Singh,24,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+887,2021-01-02,Sandeep Singh Rathore,30,98.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,50,Male
+888,2021-01-02,ANUP KUMAR CHAUBEY,4,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+889,2021-01-02,Tajinder Pal Singh,41,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,54,Male
+890,2021-01-02,Uttam Kumar,44,98.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,40,Male
+891,2021-01-02,Ram Milan Singh,28,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,34,Male
+892,2021-01-02,Rahul Kumar Chaudhary,27,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+893,2021-01-02,Shri Kant ,36,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+894,2021-01-02,Sumit joshi,39,96.6,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+895,2021-01-02,Arvind Kumar shukla ,06,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+896,2021-01-02,Devanand sahu,8,97.1,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,28,Male
+897,2021-01-02,Suneet Singh,40,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+898,2021-01-02,Sudhir kumar,38,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
+899,2021-01-02,Deepak Yadav,07,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+900,2021-01-02,Vipin chourasiya,48,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,33,Male
+901,2021-01-02,Gaurav Chaudhary ,11,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+902,2021-01-02,Yashraj Singh,50,96.7,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+903,2021-01-02,Subodh kumar dev,37,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+904,2021-01-02,Vinay Kumar Yadav ,47,97.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+905,2021-01-02,Jagdish Chandra Palariya,14,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+906,2021-01-02,Shivam Tripathi ,33,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Male
+907,2021-01-02,TOKESH KUMAR NAGWANSHI,43,95,None of the Above,Kidney Disease,No,No,No,Green,Yes,Yes,35,Male
+908,2021-01-02,Virendra Kumar Dahayat,49,95.84,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,29,Male
+909,2021-01-02,Digvijay singh parmar,9,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,30,Male
+910,2021-01-02,Saurav Bhandari ,32,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,23,Male
+911,2021-01-02,Shivendra Kumar Singh,34,97.6,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+912,2021-01-02,SHIVENDRA KUMAR SINGH,34,97.2,None of the Above,None of the Above,No,No,No,Green,Yes,No,26,Male
+913,2021-01-02,Prabhu Prasad Patra,19,98,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,25,Male
+914,2021-01-02,Madhav,16,98,Cough,None of the Above,No,No,No,Green,Yes,Yes,36,Male
+915,2021-01-02,Tarun sakwar,42,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+916,2021-01-02,Pankaj Kumar ,18,96,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,27,Male
+917,2021-01-02,Ramanand Patel ,29,97.5,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,37,Male
+918,2021-01-02,Rachit Kumar Verma,25,96.8,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,31,Male
+919,2021-01-02,Pramod Kumar,21,96.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,32,Male
+920,2021-01-02,Ajay Kumar Sharma,2,98.4,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,44,Male
+921,2021-01-02,Rahul Gupta,26,97.8,None of the Above,Diabetes,No,No,No,Yellow,Yes,Yes,29,Male
+922,2021-01-02,Vikas Sati,45,97.9,None of the Above,None of the Above,No,No,No,Green,No,No,25,Male
+923,2021-01-02,Vinay Kumar,46,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,41,Male
+924,2021-01-02,Neetu Rathore,17,95,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,26,Female
+925,2021-01-02,Abhay kumar singh,01,97.3,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,38,Male
+926,2021-01-03,Jugraj Singh Bhadauriya ,15,97,None of the Above,None of the Above,No,No,No,Green,Yes,Yes,39,Male
