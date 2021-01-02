@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+voila
+gspread
+warnings
