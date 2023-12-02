@@ -14,7 +14,8 @@
 
 # Python program to get 
 # current date 
-# Import date class from datetime module 
+# Import date class from datetime module
+from __future__ import print_function
 from datetime import date 
 from datetime import datetime
 from datetime import date 
@@ -35,7 +36,6 @@ daybeforeyesterday_str = daybeforeyesterday.strftime("%Y-%m-%d")
 
 
 # Import Relevent libraries
-from __future__ import print_function
 from ipywidgets import interact, interactive, fixed, interact_manual
 from IPython.core.display import display, HTML
 import pandas as pd
